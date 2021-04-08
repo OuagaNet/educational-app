@@ -30,6 +30,14 @@ fake_async
 2.12
 file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/
 file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib/
+flutter_signin_button
+2.12
+file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_signin_button-2.0.0/
+file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_signin_button-2.0.0/lib/
+font_awesome_flutter
+2.12
+file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/font_awesome_flutter-9.0.0/
+file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/font_awesome_flutter-9.0.0/lib/
 matcher
 2.12
 file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10/
@@ -88,6 +96,6 @@ file:///Users/sumitra/Downloads/flutter/packages/flutter_test/
 file:///Users/sumitra/Downloads/flutter/packages/flutter_test/lib/
 educational_app
 2.7
-file:///Users/sumitra/OuagaNet/educational_app/
-file:///Users/sumitra/OuagaNet/educational_app/lib/
+file:///Users/sumitra/educational-app/
+file:///Users/sumitra/educational-app/lib/
 2

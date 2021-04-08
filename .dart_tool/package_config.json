@@ -56,8 +56,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_signin_button",
+      "rootUri": "file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_signin_button-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/sumitra/Downloads/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "font_awesome_flutter",
+      "rootUri": "file:///Users/sumitra/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/font_awesome_flutter-9.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -140,7 +152,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-03-20T17:39:31.680496Z",
+  "generated": "2021-04-08T22:44:21.630295Z",
   "generator": "pub",
   "generatorVersion": "2.12.0"
 }
